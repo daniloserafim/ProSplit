@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pro Split - Bill Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>Pro Split - Bill Calculator</h2>
+    <form id="billForm">
+        <h3>Friends</h3>
+        <table id="friendsTable">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Total Expenses</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Dynamic rows will be added here -->
+            </tbody>
+        </table>
+        <button type="button" onclick="addFriend()">Add Friend</button>
+
+        <h3>Discounts</h3>
+        <div id="discountsContainer"></div>
+        <button type="button" onclick="addDiscount()">Add Discount</button>
+
+        <h3>Additions</h3>
+        <div id="additionsContainer"></div>
+        <button type="button" onclick="addAddition()">Add Addition</button>
+        <br><br>
+
+        <button type="submit">Calculate Bill</button>
+    </form>
+
+    <div id="responseContainer"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
