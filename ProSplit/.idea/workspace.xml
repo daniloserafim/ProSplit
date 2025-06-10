@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aae261ce-f78a-43fd-91a7-f61c45dcbab9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/ProSplitApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/application/rest/addition/AdditionDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/application/rest/bill/BillController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/application/rest/bill/BillDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/application/rest/bill/BillRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/application/rest/billAdjustment/BillAdjustmentDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/application/rest/dicount/DiscountDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/application/rest/exception/ApplicationExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/application/rest/friendBill/FriendBillDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/application/rest/utils/ErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/domain/Addition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/domain/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/domain/BillAdjustment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/domain/Discount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/domain/FriendBill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/domain/exception/BillServiceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/domain/exception/EmptyListException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/domain/exception/InvalidValueException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/domain/service/bill/BillServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/domain/service/bill/IBillService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/infraestructure/security/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioSoftexpert/ProSplit/utils/MathUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/desafioSoftexpert/ProSplit/ProSplitApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/desafioSoftexpert/ProSplit/application/rest/bill/BillControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/desafioSoftexpert/ProSplit/domain/service/bill/BillServiceImplTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2yKOf4XrBA6CvAfpLUlt0C3puiy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.ProSplit [clean,install].executor": "Run",
+    "Maven.ProSplit [clean].executor": "Run",
+    "Maven.ProSplit [install].executor": "Run",
+    "Maven.ProSplit [spring-boot:run].executor": "Run",
+    "Maven.ProSplit [validate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/projeto/ProSplit/ProSplit-back",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aae261ce-f78a-43fd-91a7-f61c45dcbab9" name="Changes" comment="" />
+      <created>1749579897950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749579897950</updated>
+    </task>
+    <servers />
+  </component>
+</project>

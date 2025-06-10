@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./ProSplit-back
+    ports:
+      - "8080:8080"
+    container_name: prosplit-backend
+    networks:
+      - prosplit-net
+
+  frontend:
+    build:
+      context: ./ProSplit-front
+    ports:
+      - "3000:3000"
+    container_name: prosplit-frontend
+    networks:
+      - prosplit-net
+    environment:
+      - REACT_APP_API_URL=http://localhost:8080
+
+networks:
+  prosplit-net:
+    driver: bridge
